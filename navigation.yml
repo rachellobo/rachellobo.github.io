@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /files/RLOBO_CV_Aug2026.pdf
+    target: "_blank"
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "ERG"
+    url: /erg/

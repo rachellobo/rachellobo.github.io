@@ -1,0 +1,21 @@
+Rachel Lobo:
+  name        : "Rachel Lobo"
+  bio         : |
+    Ph.D. Student in Economics<br>
+    Causal Inference<br>
+    Econometrics<br>
+    University of Georgia
+  avatar      : "IMG_profile2.JPG"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rachel.lobo@uga.edu"
+    - label: "Github"
+      icon: "fab fa-github"
+      url: "https://github.com/rachellobo"
+    - label: "Department of Economics @ UGA"
+      icon: "fas fa-university"
+      url: "https://www.terry.uga.edu/departments/economics/"
+    - label: UGA Econometrics Reading Group
+      icon: "fa fa-bookmark"
+      url: "https://uga-metrics.github.io/"
