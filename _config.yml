@@ -1,7 +1,7 @@
 #title: "Rachel Lobo"
 #description: "Website for Rachel Lobo, PhD Student of Economics"
-#baseurl: "https://rlobo.github.io"
-#url: "https://rlobo.github.io"
+#baseurl: "https://rachellobo.github.io"
+#url: "https://rachellobo.github.io"
 
 #theme: minimal-mistakes-jekyll
 #plugins:
@@ -48,7 +48,7 @@ email: rachel.lobo@uga.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Ph.D. Student \& Economagician at the University of Georgia, Godfrey Department of Economics
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rlobo.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rachellobo.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rachllobo
 github_username:  rachellobo
 markdown: kramdown
