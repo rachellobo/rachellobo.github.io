@@ -1,4 +1,4 @@
-<!--
+
 ---
 layout: single
 title: "Teaching"
@@ -12,4 +12,4 @@ permalink: /teaching/
 ## Guest Lecturer
 
 ## Teaching Assistantships
--->
+
