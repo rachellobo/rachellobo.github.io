@@ -6,7 +6,5 @@ main:
     target: "_blank"
   - title: "Research"
     url: /research/
-  - title: "Teaching"
-    url: /teaching/
   - title: "ERG"
     url: /erg/
