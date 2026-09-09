@@ -3,10 +3,11 @@ layout: single
 title: Research
 permalink: /research/
 ---
-
-## Publications
-
-
-
 ## Working Papers
+ 
+[**Causal Inference for Unequal Baseline Panel Data Under Outcome Convergence**](\files/UnequalBaseline_Sept26.pdf)
+
+
+
+
 
